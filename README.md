@@ -5,3 +5,6 @@ El archivo multicapa.cpp contiene el perceptrón multicapa clásico con el que s
 
 El archivo StrawberryF-TFG-GH.ipynb contiene la continuous-variable quantum neural network de Strawberry Fields. Es un Jupyter Notebook con el siguiente soporte: Python 3.6.10, TensorFlow 1.3.0 , StrawberryFields 0.10.0 , Numpy 1.18.1 , and Matplotlib
 3.1.3. NOTA: El soporte de TensorFlow con Strawberry Fields no está diseñado para versiones superiores a las mencionadas.
+
+El archivo NNetwork-TFG.ipynb contiene el programa utilizado para detectar entrelazamiento cuántico a través del criterio de Peres-Horodecki. Es un Jupyter Notebook con el siguiente soporte: Python 3.7.6, Keras 2.3.1, TensorFlow 2.1.0, Numpy 1.18.1, Pandas
+1.0.1 and Matplotlib 3.1.3.
